@@ -1,0 +1,46 @@
+ [
+  {
+  "Id":2,
+  "Name":"Erose Villa",
+  "Type":"House",
+  "Price":128000,
+  "Image":"house1.jpg"
+ },
+
+ {
+  "Id":2,
+  "Name":"Erose Villa",
+  "Type":"House",
+  "Price":128000,
+  "Image":"house2.jpg"
+ },
+ {
+  "Id":3,
+  "Name":"Pearl white house",
+  "Type":"House",
+  "price":1890.0,
+  "Image":"house3.jpg"
+ },
+ {
+  "Id":4,
+  "Name":"Macro home",
+  "Type":"House",
+  "Price":89076,
+  "Image":"house4.jpg"
+ },
+ {
+  "Id":5,
+  "Name":"Builderhouse",
+  "Type":"House",
+  "Price":1098000,
+  "Image":"house3.jpg"
+ },
+
+ {
+  "Id":6,
+  "Name":"Peace of ",
+  "Type":"House",
+  "Price":100000,
+  "Image":"house4.jpg"
+ }
+]
